@@ -1,6 +1,6 @@
 curl -s https://api.github.com/repos/hakkatil/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
 
-curl -s https://api.github.com/repos/hakkatil/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/5058
 {
   "id": 1151642199,
   "node_id": "R_kgDORKSqVw",
